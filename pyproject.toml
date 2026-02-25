@@ -36,7 +36,7 @@ build = [
 ]
 format = [
   "black==26.1.0",
-	"isort==7.0.0",
+	"isort==8.0.0",
 ]
 lint = [
   "flake8==7.3.0",
